@@ -8,7 +8,7 @@ title: OpenFloodForecasting | Advanced Flood Data & Modelling
     <div class="container">
         <div class="section-header">
             <h2>Our Mission</h2>
-            <p>Democratizing access to flood forecasting technologies.</p>
+            <p>Open access to flood forecasting datasets and technologies.</p>
         </div>
         <div class="about-grid">
             <div class="card fade-up">
